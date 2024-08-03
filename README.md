@@ -1,2 +1,2 @@
 # test-repo
-testing repo onl
+testing repo only
