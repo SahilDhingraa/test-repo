@@ -1,4 +1,6 @@
 # test-repo
+## this is to test [PubdeskMD](https://github.com/skar-software/pubdeskmd)
+
 testing repo only
 testing......
 testing again
